@@ -23,13 +23,13 @@ A device that use weatherapi to show weatherforcast
 
 ## Image of product
 Wiring
-![](weatherstation/Picture1.png)    
+![](weatherstation/Picture1.jpg)    
 Choose city
-![](weatherstation/Picture2.png)  
+![](weatherstation/Picture2.jpg)  
 Rome
-![](weatherstation/Picture3.png)  
+![](weatherstation/Picture3.jpg)  
 Ho Chi Minh City
-![](weatherstation/Picture4.png)  
+![](weatherstation/Picture4.jpg)  
 
 
 
